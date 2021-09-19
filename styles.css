@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  font-size: 100px;
+  margin-top: auto;
+  color: rgb(129, 82, 129);
+}
+
+li {
+  padding: 5px;
+}
+
+a:link {
+  color: rgb(128, 172, 58);
+}
+
+a:hover {
+  color: rgb(100, 100, 50);
+}
+
+* {
+  background-color: rgb(98, 66, 172);
+}
